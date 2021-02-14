@@ -6,9 +6,9 @@
 [![Gmail Badge](https://img.shields.io/badge/-bc1916@ajou.ac.kr-1168AE?style=flat-square&logo=Gmail&logoColor=white&link=mailto:initdev.return@gmail.com)](mailto:bc1916@ajou.ac.kr)
 [![Gmail Badge](https://img.shields.io/badge/-initdev.return@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:initdev.return@gmail.com)](mailto:initdev.return@gmail.com)
 
-[![return0927's github stats](https://github-readme-stats.vercel.app/api?username=return0927&show_icons=true&hide_border=true&count_private=true)](https://github.com/return0927)
+[![return0927's github stats](https://github-readme-stats.vercel.app/api?username=return0927&show_icons=true&hide_border=true&count_private=true&theme=dark)](https://github.com/return0927)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=return0927&hide_langs_below=0.5)](#)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=return0927&hide_langs_below=0.5&theme=dark)](#)
 
 ## Education
 - Majors _Software Engineering_ in [Ajou University](https://ajou.ac.kr) (2020 ~)
