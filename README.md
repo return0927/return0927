@@ -16,6 +16,22 @@
 - Completed Security track in [Kongju Univ Talenteds](http://sec.kongju.ac.kr) (2016, 2017)
 
 ## Projects
+### [YouTube Creator Town 2021](https://www.youtube.com/playlist?list=PLLoamEZ5bJuFtxk65xKJlnVLZ7fM7eGFE)
+- Outsource for YouTube Korea
+- Minecraft Plugin Developmoent (Kotlin, Paper 1.16.5)
+- Minecraft Custom Launcher (Electron, JavaScript)
+- CI/CD pipeline for Minecraft Server (Github Actions, Google Cloud Build, Google Cloud Storage)
+- Infra Management (Docker, Google Cloud Platform, pulumi with Kotlin)
+- Data Engineering (Python 3)
+
+> Materials
+
+- [Trailer 1](https://youtu.be/fsNuYn8IwsI)
+- [Trailer 2](https://youtu.be/sGHAhafP268)
+- [Trailer 3](https://youtu.be/SpZ9aXkREkk)
+- [Highlights](https://youtu.be/zodKsEniflA)
+
+## Teams
 ### [KKutu Korea](https://kkutu.co.kr)
 
 <!-- <img src="https://yt3.ggpht.com/a/AATXAJzUe2vhKkcvhZNGxjjccH6YojJHdB6_teSq2g=s68-c-k-c0xffffffff-no-rj-mo" width=100 /> -->
