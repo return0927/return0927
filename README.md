@@ -8,7 +8,6 @@
 
 [![return0927's github stats](https://github-readme-stats.vercel.app/api?username=return0927&show_icons=true&hide_border=true&count_private=true&theme=dark)](https://github.com/return0927)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=return0927&hide_langs_below=0.5&theme=dark)](#)
 
 ## Education
 - Majors _Software Engineering_ in [Ajou University](https://ajou.ac.kr) (2020 ~)
@@ -32,9 +31,6 @@
 - [Highlights](https://youtu.be/zodKsEniflA)
 
 ## Teams
-### [KKutu Korea](https://kkutu.co.kr)
+### [KKuTu Korea](https://kkutu.co.kr)
 
 <!-- <img src="https://yt3.ggpht.com/a/AATXAJzUe2vhKkcvhZNGxjjccH6YojJHdB6_teSq2g=s68-c-k-c0xffffffff-no-rj-mo" width=100 /> -->
-
-### [Team Crescendo](https://team-crescendo.me)
-![Send mail](https://img.shields.io/badge/-eh.lee@crsd.team-lightgray?style=flat-square&logo=gmail&logoColor=white&link=mailto:eh.lee@crsd.team)
